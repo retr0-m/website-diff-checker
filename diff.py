@@ -27,20 +27,34 @@ def get_diff(prev, current, ignore=None) -> list[list[str]]:
 
     
 
-def format_diff(diff: list[list]) -> str:
+def format_diff(diff: list[list], color: bool) -> str:
     removes, adds = diff
-    s = ""
 
-    s+= f"{Fore.YELLOW}Diff:\n{Style.RESET_ALL}"
+    if color:
+        s = ""
 
-    s+= f"{Fore.CYAN}Removed lines:\n{Style.RESET_ALL}"
-    for line in removes:
-        s += f"{Back.RED}{Fore.WHITE}- {line}{Style.RESET_ALL}\n"
+        s+= f"{Fore.YELLOW}Diff:\n{Style.RESET_ALL}"
+
+        s+= f"{Fore.CYAN}Removed lines:\n{Style.RESET_ALL}"
+        for line in removes:
+            s += f"{Back.RED}{Fore.WHITE}- {line}{Style.RESET_ALL}\n"
 
 
-    s+= f"{Fore.CYAN}Added lines:\n{Style.RESET_ALL}"
-    for line in adds:
-        s += f"{Back.GREEN}{Fore.WHITE}+ {line}{Style.RESET_ALL}\n"
+        s+= f"{Fore.CYAN}Added lines:\n{Style.RESET_ALL}"
+        for line in adds:
+            s += f"{Back.GREEN}{Fore.WHITE}+ {line}{Style.RESET_ALL}\n"
+    else:
+        s = ""
 
+        s+= f"Diff:\n"
+
+        s+= f"Removed lines:\n"
+        for line in removes:
+            s += f"- {line}\n"
+
+
+        s+= f"Added lines:\n"
+        for line in adds:
+            s += f"+ {line}\n"
     return s
 

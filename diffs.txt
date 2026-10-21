@@ -1,0 +1,72 @@
+====================
+Differences from previous:
+[33mDiff:
+[0m[36mRemoved lines:
+[0m[41m[37m-                 <a href="/cdn-cgi/l/email-protection#2940474f4669454c484d40475d4c45454c4a5d07405d165a5c4b434c4a5d147b404a41404c5a5d4809595b4c5f4c475d405f460959484a4a414c5d5d4609795b46" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Richiedi[0m
+[41m[37m-                 <a href="/cdn-cgi/l/email-protection#422b2c242d022e2723262b2c36272e2e2721366c2b367d313720282721367f102b212a2b273136236232302734272c362b342d62322321212a2736362d62072e2b3627" target="_blank" class="block text-center border border-white/20 py-4 rounded-full text-xs font-bold uppercase hover:bg-white hover:text-black transition">Richiedi[0m
+[41m[37m-                 <a href="/cdn-cgi/l/email-protection#0d64636b624d61686c69646379686161686e79236479327e786f67686e793044636477646c2d7d7f627b6c2d6a7f6c797864796c" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Inizia[0m
+[41m[37m-                 <a href="/cdn-cgi/l/email-protection#96fff8f0f9d6faf3f7f2fff8e2f3fafaf3f5e2e5efe5e2f3fbb8f5f9fb" class="hover:text-white transition underline">[0m
+[41m[37m-                     <span class="__cf_email__" data-cfemail="f0999e969fb09c959194999e84959c9c95938483898384959dde939f9d">[email&#160;protected]</span>[0m
+[41m[37m-                                 Aggiungi <span class="text-white font-medium"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="660f080009260a0307020f0812030a0a030512151f1512030b4805090b">[email&#160;protected]</a></span> ai[0m
+[36mAdded lines:
+[0m[42m[37m+                 <a href="/cdn-cgi/l/email-protection#e881868e87a8848d898c81869c8d84848d8b9cc6819cd79b9d8a828d8b9cd5ba818b80818d9b9c89c8989a8d9e8d869c819e87c898898b8b808d9c9c87c8b89a87" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Richiedi[0m
+[42m[37m+                 <a href="/cdn-cgi/l/email-protection#98f1f6fef7d8f4fdf9fcf1f6ecfdf4f4fdfbecb6f1eca7ebedfaf2fdfbeca5caf1fbf0f1fdebecf9b8e8eafdeefdf6ecf1eef7b8e8f9fbfbf0fdececf7b8ddf4f1ecfd" target="_blank" class="block text-center border border-white/20 py-4 rounded-full text-xs font-bold uppercase hover:bg-white hover:text-black transition">Richiedi[0m
+[42m[37m+                 <a href="/cdn-cgi/l/email-protection#e68f888089a68a8387828f8892838a8a838592c88f92d99593848c838592dbaf888f9c8f87c69694899087c681948792938f9287" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Inizia[0m
+[42m[37m+                 <a href="/cdn-cgi/l/email-protection#8ce5e2eae3cce0e9ede8e5e2f8e9e0e0e9eff8fff5fff8e9e1a2efe3e1" class="hover:text-white transition underline">[0m
+[42m[37m+                     <span class="__cf_email__" data-cfemail="21484f474e614d444045484f55444d4d44425552585255444c0f424e4c">[email&#160;protected]</span>[0m
+[42m[37m+                                 Aggiungi <span class="text-white font-medium"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5b32353d341b373e3a3f32352f3e37373e382f2822282f3e3675383436">[email&#160;protected]</a></span> ai[0m
+
+====================
+Differences from previous:
+[33mDiff:
+[0m[36mRemoved lines:
+[0m[41m[37m-                 <a href="/cdn-cgi/l/email-protection#d1b8bfb7be91bdb4b0b5b8bfa5b4bdbdb4b2a5ffb8a5eea2a4b3bbb4b2a5ec83b8b2b9b8b4a2a5b0f1a1a3b4a7b4bfa5b8a7bef1a1b0b2b2b9b4a5a5bef181a3be" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Richiedi[0m
+[41m[37m-                 <a href="/cdn-cgi/l/email-protection#aac3c4ccc5eac6cfcbcec3c4decfc6c6cfc9de84c3de95d9dfc8c0cfc9de97f8c3c9c2c3cfd9decb8adad8cfdccfc4dec3dcc58adacbc9c9c2cfdedec58aefc6c3decf" target="_blank" class="block text-center border border-white/20 py-4 rounded-full text-xs font-bold uppercase hover:bg-white hover:text-black transition">Richiedi[0m
+[41m[37m-                 <a href="/cdn-cgi/l/email-protection#ee87808881ae828b8f8a87809a8b82828b8d9ac0879ad19d9b8c848b8d9ad3a7808794878fce9e9c81988fce899c8f9a9b879a8f" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Inizia[0m
+[41m[37m-                 <a href="/cdn-cgi/l/email-protection#90f9fef6ffd0fcf5f1f4f9fee4f5fcfcf5f3e4e3e9e3e4f5fdbef3fffd" class="hover:text-white transition underline">[0m
+[41m[37m-                     <span class="__cf_email__" data-cfemail="f69f989099b69a9397929f9882939a9a939582858f8582939bd895999b">[email&#160;protected]</span>[0m
+[41m[37m-                                 Aggiungi <span class="text-white font-medium"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a9c0c7cfc6e9c5ccc8cdc0c7ddccc5c5cccadddad0daddccc487cac6c4">[email&#160;protected]</a></span> ai[0m
+[36mAdded lines:
+[0m[42m[37m+                 <a href="/cdn-cgi/l/email-protection#f29b9c949db29e9793969b9c86979e9e979186dc9b86cd81879098979186cfa09b919a9b97818693d282809784979c869b849dd2829391919a9786869dd2a2809d" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Richiedi[0m
+[42m[37m+                 <a href="/cdn-cgi/l/email-protection#31585f575e715d545055585f45545d5d5452451f58450e4244535b5452450c6358525958544245501141435447545f4558475e1141505252595445455e11745d584554" target="_blank" class="block text-center border border-white/20 py-4 rounded-full text-xs font-bold uppercase hover:bg-white hover:text-black transition">Richiedi[0m
+[42m[37m+                 <a href="/cdn-cgi/l/email-protection#c3aaada5ac83afa6a2a7aaadb7a6afafa6a0b7edaab7fcb0b6a1a9a6a0b7fe8aadaab9aaa2e3b3b1acb5a2e3a4b1a2b7b6aab7a2" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Inizia[0m
+[42m[37m+                 <a href="/cdn-cgi/l/email-protection#71181f171e311d141015181f05141d1d14120502080205141c5f121e1c" class="hover:text-white transition underline">[0m
+[42m[37m+                     <span class="__cf_email__" data-cfemail="640d0a020b24080105000d0a10010808010710171d171001094a070b09">[email&#160;protected]</span>[0m
+[42m[37m+                                 Aggiungi <span class="text-white font-medium"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="244d4a424b64484145404d4a50414848414750575d575041490a474b49">[email&#160;protected]</a></span> ai[0m
+
+====================
+Differences from previous:
+[33mDiff:
+[0m[36mRemoved lines:
+[0m[41m[37m-                 <a href="/cdn-cgi/l/email-protection#2940474f4669454c484d40475d4c45454c4a5d07405d165a5c4b434c4a5d147b404a41404c5a5d4809595b4c5f4c475d405f460959484a4a414c5d5d4609795b46" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Richiedi[0m
+[41m[37m-                 <a href="/cdn-cgi/l/email-protection#422b2c242d022e2723262b2c36272e2e2721366c2b367d313720282721367f102b212a2b273136236232302734272c362b342d62322321212a2736362d62072e2b3627" target="_blank" class="block text-center border border-white/20 py-4 rounded-full text-xs font-bold uppercase hover:bg-white hover:text-black transition">Richiedi[0m
+[41m[37m-                 <a href="/cdn-cgi/l/email-protection#0d64636b624d61686c69646379686161686e79236479327e786f67686e793044636477646c2d7d7f627b6c2d6a7f6c797864796c" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Inizia[0m
+[41m[37m-                 <a href="/cdn-cgi/l/email-protection#96fff8f0f9d6faf3f7f2fff8e2f3fafaf3f5e2e5efe5e2f3fbb8f5f9fb" class="hover:text-white transition underline">[0m
+[41m[37m-                     <span class="__cf_email__" data-cfemail="f0999e969fb09c959194999e84959c9c95938483898384959dde939f9d">[email&#160;protected]</span>[0m
+[41m[37m-                                 Aggiungi <span class="text-white font-medium"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="660f080009260a0307020f0812030a0a030512151f1512030b4805090b">[email&#160;protected]</a></span> ai[0m
+[36mAdded lines:
+[0m[42m[37m+                 <a href="/cdn-cgi/l/email-protection#9cf5f2faf3dcf0f9fdf8f5f2e8f9f0f0f9ffe8b2f5e8a3efe9fef6f9ffe8a1cef5fff4f5f9efe8fdbceceef9eaf9f2e8f5eaf3bcecfdfffff4f9e8e8f3bccceef3" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Richiedi[0m
+[42m[37m+                 <a href="/cdn-cgi/l/email-protection#4e272028210e222b2f2a27203a2b22222b2d3a60273a713d3b2c242b2d3a731c272d26272b3d3a2f6e3e3c2b382b203a2738216e3e2f2d2d262b3a3a216e0b22273a2b" target="_blank" class="block text-center border border-white/20 py-4 rounded-full text-xs font-bold uppercase hover:bg-white hover:text-black transition">Richiedi[0m
+[42m[37m+                 <a href="/cdn-cgi/l/email-protection#91f8fff7fed1fdf4f0f5f8ffe5f4fdfdf4f2e5bff8e5aee2e4f3fbf4f2e5acd8fff8ebf8f0b1e1e3fee7f0b1f6e3f0e5e4f8e5f0" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Inizia[0m
+[42m[37m+                 <a href="/cdn-cgi/l/email-protection#80e9eee6efc0ece5e1e4e9eef4e5ecece5e3f4f3f9f3f4e5edaee3efed" class="hover:text-white transition underline">[0m
+[42m[37m+                     <span class="__cf_email__" data-cfemail="7b12151d143b171e1a1f12150f1e17171e180f0802080f1e1655181416">[email&#160;protected]</span>[0m
+[42m[37m+                                 Aggiungi <span class="text-white font-medium"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="721b1c141d321e1713161b1c06171e1e171106010b0106171f5c111d1f">[email&#160;protected]</a></span> ai[0m
+
+====================
+Differences from previous:
+[33mDiff:
+[0m[36mRemoved lines:
+[0m[41m[37m-                 <a href="/cdn-cgi/l/email-protection#452c2b232a05292024212c2b312029292026316b2c317a3630272f20263178172c262d2c203631246535372033202b312c332a65352426262d2031312a6515372a" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Richiedi[0m
+[41m[37m-                 <a href="/cdn-cgi/l/email-protection#076e696168476b6266636e6973626b6b626473296e73387472656d6264733a556e646f6e6274736627777562716269736e716827776664646f6273736827426b6e7362" target="_blank" class="block text-center border border-white/20 py-4 rounded-full text-xs font-bold uppercase hover:bg-white hover:text-black transition">Richiedi[0m
+[41m[37m-                 <a href="/cdn-cgi/l/email-protection#7e171018113e121b1f1a17100a1b12121b1d0a50170a410d0b1c141b1d0a4337101704171f5e0e0c11081f5e190c1f0a0b170a1f" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Inizia[0m
+[41m[37m-                 <a href="/cdn-cgi/l/email-protection#5930373f3619353c383d30372d3c35353c3a2d2a202a2d3c34773a3634" class="hover:text-white transition underline">[0m
+[41m[37m-                     <span class="__cf_email__" data-cfemail="cfa6a1a9a08fa3aaaeaba6a1bbaaa3a3aaacbbbcb6bcbbaaa2e1aca0a2">[email&#160;protected]</span>[0m
+[41m[37m-                                 Aggiungi <span class="text-white font-medium"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f79e999198b79b9296939e9983929b9b929483848e8483929ad994989a">[email&#160;protected]</a></span> ai[0m
+[36mAdded lines:
+[0m[42m[37m+                 <a href="/cdn-cgi/l/email-protection#4c25222a230c20292d28252238292020292f38622538733f392e26292f38711e252f2425293f382d6c3c3e293a292238253a236c3c2d2f2f24293838236c1c3e23" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Richiedi[0m
+[42m[37m+                 <a href="/cdn-cgi/l/email-protection#60090e060f200c050104090e14050c0c0503144e09145f1315020a0503145d3209030809051314014010120516050e1409160f4010010303080514140f40250c091405" target="_blank" class="block text-center border border-white/20 py-4 rounded-full text-xs font-bold uppercase hover:bg-white hover:text-black transition">Richiedi[0m
+[42m[37m+                 <a href="/cdn-cgi/l/email-protection#c7aea9a1a887aba2a6a3aea9b3a2ababa2a4b3e9aeb3f8b4b2a5ada2a4b3fa8ea9aebdaea6e7b7b5a8b1a6e7a0b5a6b3b2aeb3a6" target="_blank" class="block text-center bg-black text-white py-4 rounded-full text-xs font-bold uppercase hover:bg-neutral-800 transition">Inizia[0m
+[42m[37m+                 <a href="/cdn-cgi/l/email-protection#bbd2d5ddd4fbd7dedadfd2d5cfded7d7ded8cfc8c2c8cfded695d8d4d6" class="hover:text-white transition underline">[0m
+[42m[37m+                     <span class="__cf_email__" data-cfemail="0c65626a634c60696d68656278696060696f787f757f786961226f6361">[email&#160;protected]</span>[0m
+[42m[37m+                                 Aggiungi <span class="text-white font-medium"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3c55525a537c50595d58555248595050595f484f454f485951125f5351">[email&#160;protected]</a></span> ai[0m
+
