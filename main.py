@@ -3,7 +3,7 @@ from time import sleep
 from curl import fetch
 from diff import format_diff, get_diff
 
-IGNORE_PARAMETERS = []
+IGNORE_PARAMETERS = ['<a href="/cdn-cgi/l/email-protection#', '<span class="__cf_email__" data-cfemail="']
 INTERVAL_CHECK=10
 URL="https://leadintellectsystem.com"
 FILE ="diffs.txt"
